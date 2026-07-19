@@ -1,3 +1,3 @@
 function changeText() {
-        document.getElementById('msg').textContent = '你刚刚触发了一段 JavaScript。';
+        document.getElementById('msg').textContent = '祝你身体健康，天天开心！！！';
       }
